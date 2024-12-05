@@ -8,7 +8,7 @@ Imagine you're part of a development team working on a web application. The team
 However, by implementing CI/CD, the process becomes automated, faster, and more reliable.
 ## Step-by-Step CI/CD Scenario
 #### 1. Developer Makes Changes (Code Commit)
-A developer works on a new feature or fixes a bug in the code. Once they’ve completed their work, they commit their changes to a version control system (like Git).<br>
+- A developer works on a new feature or fixes a bug in the code. Once they’ve completed their work, they commit their changes to a version control system (like Git).<br>
 CI (Continuous Integration) kicks in once the commit is pushed to the repository (e.g., GitHub, GitLab, Bitbucket). The system detects that new code has been added.
 #### 2. Continuous Integration (CI) – Build and Test
 `Automated Build`: The CI pipeline is triggered. It starts by pulling the latest code and running a build process (compiling, packaging, etc.) to ensure the new code integrates smoothly with the rest of the project.<br>
